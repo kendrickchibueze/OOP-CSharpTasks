@@ -25,8 +25,9 @@ namespace EncryptDecryptApp
 
         class EncryptDecrypt
         {
-            //This security key should be very complex and Random for encrypting the text. This playing vital role in encrypting the text.
-            public const string SecurityKey = "ComplexKeyHere_12121";
+              //This security key should be very complex and Random for encrypting the text. This playing vital role in encrypting the text.
+              //our given decryption string
+              public const string SecurityKey = "E*%&><!)(@abcdefghijklmno";
             
             
             //constructors
